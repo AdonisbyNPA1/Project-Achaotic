@@ -6,3 +6,7 @@ by AdonisbyNPA1
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AdonisbyNPA1/Project-Achaotic/refs/heads/main/scripts/BladeBall.lua",true))()
 ```
+### Blade Ball Manual Spam
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdonisbyNPA1/Project-Achaotic/refs/heads/main/scripts/BladeBallManualSpam.lua",true))()
+```
